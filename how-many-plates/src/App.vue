@@ -308,4 +308,22 @@ main {
   }
 }
 
+@media only screen and (min-width: 600px){
+  .inputBox{
+  margin:auto;
+  margin-top:15%;
+  width: fit-content;
+  height: fit-content;
+}
+
+.weightSection{
+
+  margin-top: 3%;
+  height: fit-content;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+}
+
 </style>
