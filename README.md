@@ -1,3 +1,6 @@
+# Hosted on
+https://howmanyplates.web.app/
+
 # About
 A web app for lazy gym bros(like myself) to figure out the exact combination of plates to load onto the bar given a specific weight.
 
